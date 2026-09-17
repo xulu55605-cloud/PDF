@@ -1,0 +1,17 @@
+{
+  "name": "PDF 工具箱",
+  "short_name": "PDF工具",
+  "description": "合并PDF、调整页面顺序、旋转、缩放，完全本地处理",
+  "start_url": ".",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f1117",
+  "theme_color": "#5c6ef8",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["utilities", "productivity"]
+}
